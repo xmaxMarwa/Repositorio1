@@ -1,5 +1,5 @@
 <?php
-	echo "Hola Mundo <br>";
+	echo "ADIOS MUNDO <br>";
 	echo "Hola"," Mundo<br>";
 	print "Hola Mundo<br>";
 	print "Hola". "Mundo";
